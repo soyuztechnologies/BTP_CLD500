@@ -1,0 +1,11 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Fri Dec 15 10:57:44 UTC 2023
+Description=Anubhav ES server
+Type=HTTP
+Authentication=BasicAuthentication
+Name=S4HANA
+ProxyType=Internet
+URL=http\://122.162.240.164\:8030/sap/opu/odata/sap/API_SALES_ORDER_SRV
+sap-client=800
+User=mob5
